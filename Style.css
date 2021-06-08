@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	text-align: center;
+}
+
+h2 {
+	font-family: arial;
+}
+
+#calc-age {
+	font-family: arial;
+	outline: none;
+	padding:8px;
+	border:none;
+	background-color: #6930c3;
+	border:2px white solid;
+	color: white;
+	border-radius: 8px;
+}
+
+#calc-age:hover {
+	background-color: #5e60ce;
+	border:2px black solid;
+}
